@@ -7,7 +7,7 @@ A list of potential competitors that NixOS can be:
 - Chef
 - Puppet
 - Crossplane
-- snapd
+- snapd/apt/yum/dnf/zypper
 - Homebrew
 - All Linux Distros
 
