@@ -1,4 +1,4 @@
-# Competitors NixOS can be
+### Competitors NixOS can be
 
 A list of potential competitors that NixOS can be:
 
@@ -10,3 +10,7 @@ A list of potential competitors that NixOS can be:
 - snapd
 - Homebrew
 - All Linux Distros
+
+### Why NixOS is great
+
+- configuration syntax is close to natural language, English
