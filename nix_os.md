@@ -8,4 +8,5 @@ A list of potential competitors that NixOS can be:
 - Puppet
 - Crossplane
 - snapd
+- Homebrew
 - All Linux Distros
